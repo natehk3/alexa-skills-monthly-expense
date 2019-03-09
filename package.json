@@ -1,0 +1,28 @@
+{
+  "name": "alexa-skills-monthly-expense",
+  "version": "1.0.0",
+  "description": "Alexa skill to get monthly expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natehk3/alexa-skills-monthly-expense.git"
+  },
+  "keywords": [
+    "alexa",
+    "skills",
+    "node.js",
+    "AWS"
+  ],
+  "author": "Nate Cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natehk3/alexa-skills-monthly-expense/issues"
+  },
+  "homepage": "https://github.com/natehk3/alexa-skills-monthly-expense#readme",
+  "dependencies": {
+    "aws-sdk": "^2.418.0"
+  }
+}
